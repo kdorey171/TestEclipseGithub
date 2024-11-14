@@ -40,7 +40,7 @@ public class FirstFrame extends JFrame {
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 		contentPane.setLayout(new BorderLayout(0, 0));
 		setContentPane(contentPane);
-		contentPane.setBackground(Color.BLACK);
+		//contentPane.setBackground(Color.BLACK);
 	}
 
 }
